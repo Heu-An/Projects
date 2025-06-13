@@ -1,7 +1,16 @@
+hr{
+    width: 70%;
+}
+p, h1{
+    font-family: arial;
+}
+
 .green{
     color: mediumseagreen;
+    font-weight: bold;
 }
 
 .blue{
     color:royalblue;
+    font-weight: bold;
 }
