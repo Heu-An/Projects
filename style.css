@@ -1,0 +1,21 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+hr {
+width: 30%;
+margin-left: 0;
+
+
+}
+
+
+.green {
+  color: mediumseagreen;
+  font-weight: bold;
+}
+
+.blue {
+  color: royalblue;
+  font-weight: bold;
+}
